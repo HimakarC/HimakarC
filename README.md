@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Himakar C</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himakarc&label=Profile%20views&color=0e75b6&style=flat" alt="himakarc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himakarc" alt="himakarc" /></a> </p>
-
 - 📫 How to reach me **himakar365@gmail.com**
 
 - ⚡ Fun fact **I am very Jovial**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/himakarchappidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/himakarchappidi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himakarchappidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himakarchappidi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/himakar_cc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himakar_cc" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21951a0565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21951a0565" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/21951a0565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="21951a0565" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himakarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himakarc" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/himakar_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himakar_c" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/himakarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himakarc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
