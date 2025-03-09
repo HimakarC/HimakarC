@@ -12,17 +12,17 @@
 ---
 
 ## 🚀 About Me
-- 🔨 **Developing Scalable Cloud Solutions & Full-Stack Applications**
+- 🔨 **Developing Dynamic & Responsive Full-Stack Applications**
 - 🎯 Passionate about **Cloud Computing, DevOps, and Automation**  
 - 🌱 Exploring **Kubernetes, Terraform, and Serverless Architectures**  
-- 🏆 **Certified in Python, AWS, Azure, Terraform, Docker, and Kubernetes**  
+- 🏆 **Certified in Python, AWS, Azure**  
 
 ---
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, JavaScript, Bash, YAML  
-- **Web Development:** Django, HTML, CSS, JavaScript  
+- **Web Development:** Django, HTML, CSS, JavaScript, React
 - **DevOps & Cloud:** AWS, Azure, Kubernetes, Terraform, Docker  
 - **CI/CD & Automation:** GitHub Actions, Jenkins, Ansible  
 - **Other Tools:** Git, Linux, Nginx, PostgreSQL, MySQL  
