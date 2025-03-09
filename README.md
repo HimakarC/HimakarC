@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[Your Logo URL]" alt="Your Logo" width="400"/>
+  <img src="https://imgur.com/a/Ga6skfF" alt="Your Logo" width="400"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/[YourLinkedIn]" target="_blank">
+  <a href="https://linkedin.com/in/himakarchappidi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/HimakarC" target="_blank">
