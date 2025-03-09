@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#E57373;">[Your Name]</span>!</h1>
-<h3 align="center">Cloud & DevOps Engineer | Full-Stack Developer | Tech Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#E57373;">Himakar Chappidi</span>!</h1>
+<h3 align="center"> Full-Stack Developer | Cloud & DevOps Engineer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HimakarC&label=Profile%20views&color=E57373&style=flat" alt="Profile Views" />
