@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/a/g0HLuYa" alt="Your Logo" width="400"/>
+  <img src="https://i.imgur.com/fDa0KFW.png" alt="Your Logo" width="400"/>
 </p>
 
 ---
