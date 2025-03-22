@@ -21,7 +21,7 @@
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Bash, YAML  
+- **Languages:** Python, Java, C  
 - **Web Development:** Django, HTML, CSS, JavaScript, React
 - **DevOps & Cloud:** AWS, Azure, Kubernetes, Terraform, Docker  
 - **CI/CD & Automation:** GitHub Actions, Jenkins, Ansible  
@@ -52,7 +52,7 @@
   <a href="https://github.com/HimakarC" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[YourPortfolioURL]" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Site-3DDC84?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:himakar365@gmail.com">
