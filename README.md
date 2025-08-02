@@ -12,10 +12,10 @@
 ---
 
 ## 🚀 About Me
+- 🏆 **Certified in Python, AWS, Azure** 
 - 🔨 **Developing Dynamic & Responsive Full-Stack Applications**
 - 🎯 Passionate about **Cloud Computing, DevOps, and Automation**  
-- 🌱 Exploring **Kubernetes, Terraform, and Serverless Architectures**  
-- 🏆 **Certified in Python, AWS, Azure**  
+- 🌱 Exploring **Kubernetes, Terraform, and Serverless Architectures** 
 
 ---
 
@@ -25,7 +25,7 @@
 - **Web Development:** Django, HTML, CSS, JavaScript, React
 - **DevOps & Cloud:** AWS, Azure, Kubernetes, Terraform, Docker  
 - **CI/CD & Automation:** GitHub Actions, Jenkins, Ansible  
-- **Other Tools:** Git, Linux, Nginx, PostgreSQL, MySQL  
+- **Other Tools:** Git, Linux, PostgreSQL, MySQL  
 
 ---
 
@@ -52,7 +52,7 @@
   <a href="https://github.com/HimakarC" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://himakarcportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Site-3DDC84?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:himakar365@gmail.com">
